@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://JasmeetSingh0404.github.io/Timer",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "immer": "^5.0.0",
     "react": "^16.8.6",
     "react-dnd": "^9.4.0",
